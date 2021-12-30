@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kiddmac
+- 👋 Hi, I’m @RonaldMarin
 - 👀 I’m interested in photografy.
 - 🌱 I’m currently learning javascritp.
 - 💞️ I’m looking to collaborate on news projects.
