@@ -1,1 +1,2 @@
-Hola, esta es mi biografia, es aburrida así que no la escribiré
+Hola, esta es mi biografia, es aburrida así que no la escribiré.
+Estamos en el branch cabecera, la idea es funcionar este con el master
